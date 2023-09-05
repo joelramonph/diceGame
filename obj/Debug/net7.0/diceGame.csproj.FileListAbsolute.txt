@@ -1,0 +1,14 @@
+/home/jivited/Escritorio/Incubadora/diceGame/bin/Debug/net7.0/diceGame
+/home/jivited/Escritorio/Incubadora/diceGame/bin/Debug/net7.0/diceGame.deps.json
+/home/jivited/Escritorio/Incubadora/diceGame/bin/Debug/net7.0/diceGame.runtimeconfig.json
+/home/jivited/Escritorio/Incubadora/diceGame/bin/Debug/net7.0/diceGame.dll
+/home/jivited/Escritorio/Incubadora/diceGame/bin/Debug/net7.0/diceGame.pdb
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.AssemblyInfoInputs.cache
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.AssemblyInfo.cs
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.csproj.CoreCompileInputs.cache
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.dll
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/refint/diceGame.dll
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.pdb
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/diceGame.genruntimeconfig.cache
+/home/jivited/Escritorio/Incubadora/diceGame/obj/Debug/net7.0/ref/diceGame.dll
